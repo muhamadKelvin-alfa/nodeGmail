@@ -1,0 +1,9 @@
+$ pkg update && pkg upgrade
+$ npm install chalk
+$ npm install inquirer@7
+$ npm install inquirer chalk
+$ git clone https://github.com/muhamadKelvin-alfa/nodeGmail
+$ cd nodeGmail
+$ node menu1.js
+
+// selsai selamat mencoba
