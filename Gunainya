@@ -1,3 +1,5 @@
+! File arus di simpan dalam folder sdcard sobat !
+
 $ pkg update && pkg upgrade
 $ npm install chalk
 $ npm install inquirer@7
